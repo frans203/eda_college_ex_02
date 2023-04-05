@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
+//        LinkedStack stack = new LinkedStack();
+//        stack.push(32);
+//        stack.push(1231);
+//        stack.push(31231);
+//        System.out.println(stack.pop());
+//        System.out.println(stack.top());
+//        System.out.println(        stack.toString());
 //        //Empty List
 //        LinkedList linkedlist = new LinkedList();
 //        //Verifying if List is empty
